@@ -223,3 +223,6 @@ Total:             O(n log n) + O(n²) = O(n²)
 - Forgetting to skip duplicates after finding a valid triplet
 - Off-by-one errors when skipping duplicates
 - Not handling the case where all elements are the same
+
+
+![img.png](img.png)
