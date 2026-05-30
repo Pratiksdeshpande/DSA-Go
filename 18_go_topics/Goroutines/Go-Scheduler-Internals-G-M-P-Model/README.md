@@ -649,13 +649,8 @@ Understanding:
 * preemption
 * scheduler tradeoffs
 
-is essential for:
-
-* senior Go interviews
-* production system design
-* performance optimization
-* debugging concurrency issues
-
 A strong Go engineer should be able to explain not only how goroutines are used, but how the runtime actually executes and manages them internally.
+
+![Complete Goroutine Lifecycle & G-M-P Model](../Complete_Goroutine_LifeCycle_&_G-M-P_Model.png)
 
 ---

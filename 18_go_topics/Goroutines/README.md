@@ -18,56 +18,59 @@ The order matters because each topic builds on runtime mental models from previo
 
 These are foundational.
 
-1. [Concurrency vs Parallelism](concurrency_vs_parallelism/README.md)
-2. [Goroutines](Goroutines-in-Go/README.md)
-3. [Go Scheduler Internals (G-M-P model)](Go-Scheduler-Internals-G-M-P-Model/README.md)
-4. Channels Internals
-5. Select Statement
-6. Backpressure
+1. [Concurrency vs Parallelism](concurrency_vs_parallelism/README.md) ✅
+2. [Goroutines in Go](Goroutines-in-Go/README.md) ✅
+3. [Go Scheduler Internals (G-M-P model)](Go-Scheduler-Internals-G-M-P-Model/README.md) ✅
+4. [Complete Goroutine Lifecycle with G-M-P](Complete-Goroutine-Lifecycle-with-G-M-P/README.md) ✅
+5. [File-IO-vs-](File-IO-vs-Network-IO-in-Goroutines/README.md) ✅
+6. [Semaphore in Go](Semaphore/README.md) ✅
 
 ---
 
 ## Phase 2 — Correctness & Failure Modes
 
-7. Race Conditions
-8. Deadlocks
-9. Goroutine Leaks
-10. Graceful Shutdown
-11. Context Propagation & Cancellation
+7. Channels Internals
+8. Select Statement
+9. Backpressure
+10. Race Conditions
+11. Deadlocks
+12. Goroutine Leaks
+13. Graceful Shutdown
+14. Context Propagation & Cancellation
 
 ---
 
 ## Phase 3 — Production Concurrency Patterns
 
-12. Worker Pool Pattern
-13. Fan-Out / Fan-In
-14. Pipelines
-15. Semaphore Pattern
-16. Bounded Concurrency
+15. Worker Pool Pattern
+16. Fan-Out / Fan-In
+17. Pipelines
+18. Semaphore Pattern
+19. Bounded Concurrency
 
 ---
 
 ## Phase 4 — Runtime & Performance Internals
 
-17. Escape Analysis
-18. Stack vs Heap in Go
-19. Memory Management
-20. Garbage Collector Internals
-21. Scheduler + GC Interaction
-22. Allocation Optimization
+20. Escape Analysis
+21. Stack vs Heap in Go
+22. Memory Management
+23. Garbage Collector Internals
+24. Scheduler + GC Interaction
+25. Allocation Optimization
 
 ---
 
 ## Phase 5 — L5-Level Advanced Topics
 
-23. sync.Mutex Internals
-24. sync.RWMutex Tradeoffs
-25. sync.Cond
-26. sync.Pool
-27. Atomic Operations & Memory Ordering
-28. False Sharing & Cache Lines
-29. Profiling & Debugging Concurrent Programs
-30. Production Failure Scenarios
+26. sync.Mutex Internals
+27. sync.RWMutex Tradeoffs
+28. sync.Cond
+29. sync.Pool
+30. Atomic Operations & Memory Ordering
+31. False Sharing & Cache Lines
+32. Profiling & Debugging Concurrent Programs
+33. Production Failure Scenarios
 
 ---
 
