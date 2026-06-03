@@ -31,9 +31,9 @@ These are foundational.
 
 7. [Channels Internals](Channels-Internals/README.md) ✅
 8. [Select Statement](Go-Select-Statement/README.md) ✅
-9. [Backpressure](Backpressure/README.md)
+9. [Backpressure](Backpressure/README.md) ✅
 10. Race Conditions
-11. [Deadlocks](Deadlocks/README.md)
+11. [Deadlocks](Deadlocks/README.md) ✅
 12. Goroutine Leaks
 13. Graceful Shutdown
 14. Context Propagation & Cancellation
