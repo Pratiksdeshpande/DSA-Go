@@ -18,21 +18,21 @@ The order matters because each topic builds on runtime mental models from previo
 
 These are foundational.
 
-1. [Concurrency vs Parallelism](concurrency_vs_parallelism/README.md) ✅
-2. [Goroutines in Go](Goroutines-in-Go/README.md) ✅
-3. [Go Scheduler Internals (G-M-P model)](Go-Scheduler-Internals-G-M-P-Model/README.md) ✅
-4. [Complete Goroutine Lifecycle with G-M-P](Complete-Goroutine-Lifecycle-with-G-M-P/README.md) ✅
-5. [File-IO-vs-](File-IO-vs-Network-IO-in-Goroutines/README.md) ✅
-6. [Semaphore in Go](Semaphore/README.md) ✅
+01. [Concurrency vs Parallelism](concurrency_vs_parallelism/README.md) ✅
+02. [Goroutines in Go](Goroutines-in-Go/README.md) ✅
+03. [Go Scheduler Internals (G-M-P model)](Go-Scheduler-Internals-G-M-P-Model/README.md) ✅
+04. [Complete Goroutine Lifecycle with G-M-P](Complete-Goroutine-Lifecycle-with-G-M-P/README.md) ✅
+05. [File-IO-vs-Network-IO-in-Goroutines](File-IO-vs-Network-IO-in-Goroutines/README.md) ✅
+06. [Semaphore in Go](Semaphore/README.md) ✅
 
 ---
 
 ## Phase 2 — Correctness & Failure Modes
 
-7. [Channels Internals](Channels-Internals/README.md) ✅
-8. [Select Statement](Go-Select-Statement/README.md) ✅
-9. [Backpressure](Backpressure/README.md) ✅
-10. Race Conditions
+07. [Channels Internals](Channels-Internals/README.md) ✅
+08. [Select Statement](Go-Select-Statement/README.md) ✅
+09. [Backpressure](Backpressure/README.md) ✅
+10. [Race Conditions](Race-Conditions/README.md) ✅
 11. [Deadlocks](Deadlocks/README.md) ✅
 12. Goroutine Leaks
 13. Graceful Shutdown
