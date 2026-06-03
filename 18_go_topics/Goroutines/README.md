@@ -34,8 +34,8 @@ These are foundational.
 09. [Backpressure](Backpressure/README.md) ✅
 10. [Race Conditions](Race-Conditions/README.md) ✅
 11. [Deadlocks](Deadlocks/README.md) ✅
-12. Goroutine Leaks
-13. Graceful Shutdown
+12. [Goroutine Leaks](Goroutine-Leaks/README.md) ✅
+13. [Graceful Shutdown](Graceful-Shutdown/README.md) ✅
 14. Context Propagation & Cancellation
 
 ---
