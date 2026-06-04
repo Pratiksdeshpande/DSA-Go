@@ -36,7 +36,7 @@ These are foundational.
 11. [Deadlocks](Deadlocks/README.md) ✅
 12. [Goroutine Leaks](Goroutine-Leaks/README.md) ✅
 13. [Graceful Shutdown](Graceful-Shutdown/README.md) ✅
-14. Context Propagation & Cancellation
+14. [Context Propagation & Cancellation](Context-propagation-and-cancellation/README.md)
 
 ---
 
