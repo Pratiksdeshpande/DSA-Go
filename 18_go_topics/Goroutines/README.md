@@ -45,7 +45,7 @@ These are foundational.
 15. Worker Pool Pattern
 16. Fan-Out / Fan-In
 17. Pipelines
-18. Semaphore Pattern
+18. [Semaphore Pattern](Semaphore/README.md) ✅
 19. Bounded Concurrency
 
 ---
