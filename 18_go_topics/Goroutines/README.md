@@ -42,7 +42,7 @@ These are foundational.
 
 ## Phase 3 — Production Concurrency Patterns
 
-15. Worker Pool Pattern
+15. [Worker Pool Pattern](Worker-Pool-Pattern/README.md) ✅
 16. Fan-Out / Fan-In
 17. Pipelines
 18. [Semaphore Pattern](Semaphore/README.md) ✅
